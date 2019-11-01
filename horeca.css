@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+
+div {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	max-width: 350px;
+	min-height: 650px;
+	background-color: grey;
+}
+
+p {
+	padding-top: 20px;
+	margin-left: 15px;
+}
+
+
+#frisBon, #fris2, #bierBon, #bier2, #wijnBon, #wijn2, #bit8bon, #bit2, #bit16bon, #bit3 {
+	display: none;
+}
